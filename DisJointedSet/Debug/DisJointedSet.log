@@ -1,3 +1,0 @@
-﻿  DisJointedSet.cpp
-C:\Users\18158\source\repos\DisJointedSet\DisJointedSet.cpp(76): warning C4715: “DisjointedSet::Find”: 不是所有的控件路径都返回值
-  DisJointedSet.vcxproj -> C:\Users\18158\source\repos\DisJointedSet\Debug\DisJointedSet.exe
